@@ -1,3 +1,4 @@
 # hello-world
 Gao's first repository on GitHub.
-<h2>To be continued...</h2>
+<hr/>
+<u>To be continued...</u>
